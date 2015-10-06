@@ -1,8 +1,11 @@
+body {
+  background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/confectionary.png')
+}
 .class1 {
-  color:yellow;
+  color:purple;
   background:black;
-  font-size:20px;
-  font-family: Courier New;
+  font-size:50px;
+  font-family:"brush script mt";
   text-align:center;
 }
 .class2 {
@@ -13,6 +16,7 @@ a {
 }
 #header {
   color:purple;
+  font-family: "papyrus";
   text-align:center;
 }
 ul {
