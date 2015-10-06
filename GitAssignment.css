@@ -9,7 +9,9 @@ body {
   text-align:center;
 }
 .class2 {
-  text-align: right;
+  text-align: center;
+  font-family: "papyrus";
+  color:purple;
 }
 a {
   color:green;
@@ -22,10 +24,11 @@ a {
 ul {
   color:blue;
   font-family:Tahoma;
-  font-size:12px;
+  font-size:22px;
 }
 li {
   color:purple;
+  font-size:13px;
 }
 img {
   width:100px;
@@ -33,7 +36,7 @@ img {
 #tags {
   color:red;
   font-family:tahoma;
-  font-size:12px;
+  font-size:13px;
 }
 header {
   font-size:20px;
