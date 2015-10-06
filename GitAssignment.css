@@ -1,0 +1,36 @@
+.class1 {
+  color:yellow;
+  background:black;
+  font-size:20px;
+  font-family: Courier New;
+  text-align:center;
+}
+.class2 {
+  text-align: right;
+}
+a {
+  color:green;
+}
+#header {
+  color:purple;
+  text-align:center;
+}
+ul {
+  color:blue;
+  font-family:Tahoma;
+  font-size:12px;
+}
+li {
+  color:purple;
+}
+img {
+  width:100px;
+}
+#tags {
+  color:red;
+  font-family:tahoma;
+  font-size:12px;
+}
+header {
+  font-size:20px;
+}
