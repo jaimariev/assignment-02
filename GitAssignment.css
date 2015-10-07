@@ -33,15 +33,15 @@ a {
 .fact {
   color:blue;
   font-family:"brush script mt";
-  font-size:30px;
-  border: 1px dashed black; width: 400px;
+  font-size:40px;
+  border: 1px solid black; width: 400px;
 }
 
 .fact2 {
   color:blue;
   font-family:"brush script mt";
-  font-size:30px;
-  border: 1px dashed black; width: 400px;
+  font-size:40px;
+  border: 1px solid black; width: 400px;
 }
 
 li {
@@ -60,7 +60,7 @@ header {
 }
 
 article {
-  border-radius: 50px 50px 50px 50px / 22px 25px 25px 25px;
+  border-radius: 50px 50px 50px 50px / 30px 30px 30px 30px;
   background-color:blue;
   font-family:"papyrus";
   color:pink;
