@@ -5,7 +5,7 @@ body {
 .class1 {
   color:pink;
   background:black;
-  font-size:50px;
+  font-size:60px;
   font-family:"brush script mt";
   border-radius: 50px 50px 50px 50px / 30px 30px 30px 30px;
   text-align:center;
@@ -21,7 +21,7 @@ a {
   color:red;
   font-family:"perpetua";
   font-style: italic;
-  font-size: 15px;
+  font-size: 20px;
 }
 
 #header {
@@ -48,7 +48,7 @@ li {
   font-family:"perpetua";
   color:purple;
   font-style: italic;
-  font-size:15px;
+  font-size:20px;
 }
 
 img {
