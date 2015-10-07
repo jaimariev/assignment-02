@@ -7,6 +7,7 @@ body {
   background:black;
   font-size:50px;
   font-family:"brush script mt";
+  border-radius: 50px 50px 50px 50px / 30px 30px 30px 30px;
   text-align:center;
 }
 
@@ -29,7 +30,14 @@ a {
   text-align:center;
 }
 
-p {
+.fact {
+  color:blue;
+  font-family:"brush script mt";
+  font-size:30px;
+  border: 1px dashed black; width: 400px;
+}
+
+.fact2 {
   color:blue;
   font-family:"brush script mt";
   font-size:30px;
