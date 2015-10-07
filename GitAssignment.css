@@ -21,7 +21,7 @@ a {
   color:red;
   font-family:"perpetua";
   font-style: italic;
-  font-size: 20px;
+  font-size: 15px;
 }
 
 #header {
@@ -33,22 +33,24 @@ a {
 .fact {
   color:blue;
   font-family:"brush script mt";
-  font-size:40px;
+  font-size:25px;
   border: 1px solid black; width: 400px;
+  background: pink;
 }
 
 .fact2 {
   color:blue;
   font-family:"brush script mt";
-  font-size:40px;
+  font-size:25px;
   border: 1px solid black; width: 400px;
+  background: pink;
 }
 
 li {
   font-family:"perpetua";
   color:purple;
   font-style: italic;
-  font-size:20px;
+  font-size:15px;
 }
 
 img {
