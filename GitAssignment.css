@@ -1,6 +1,7 @@
 body {
   background-image: url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/confectionary.png')
 }
+
 .class1 {
   color:pink;
   background:black;
@@ -8,42 +9,59 @@ body {
   font-family:"brush script mt";
   text-align:center;
 }
+
 .class2 {
   text-align: center;
   font-family: "papyrus";
   color:purple;
 }
+
 a {
   color:red;
-  font-family:tahoma;
+  font-family:"perpetua";
+  font-style: italic;
   font-size: 15px;
 }
+
 #header {
   color:purple;
   font-family: "papyrus";
   text-align:center;
 }
+
 p {
   color:blue;
   font-family:"brush script mt";
   font-size:30px;
+  border: 1px dashed black; width: 400px;
 }
+
 li {
-  font-family:tahoma;
+  font-family:"perpetua";
   color:purple;
+  font-style: italic;
   font-size:15px;
 }
+
 img {
   width:100px;
 }
+
 header {
   font-size:20px;
 }
+
 article {
   border-radius: 50px 50px 50px 50px / 22px 25px 25px 25px;
   background-color:blue;
   font-family:"papyrus";
   color:pink;
   font-size:14px;
+  text-align: center;
+}
+
+footer {
+  font-family: "papyrus";
+  font-size: 16px;
   text-align: center;
 }
